@@ -16,7 +16,7 @@ Tabla de Contenidos
 
     Variables de Postman
 
-✨ Características
+Características
 
     Autenticación de Usuarios: Registro e inicio de sesión con generación de tokens (JWT).
 
