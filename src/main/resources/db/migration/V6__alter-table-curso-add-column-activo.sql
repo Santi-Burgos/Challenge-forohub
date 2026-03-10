@@ -1,0 +1,1 @@
+ALTER TABLE curso ADD COLUMN activo tinyint not null default 1;
